@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/my_username/my_package
+Author: my_username
+Author-email: rghasemi@ualberta.ca
+Project-URL: Bug Tracker, https://github.com/my_username/my_package/issues

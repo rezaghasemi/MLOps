@@ -1,0 +1,7 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  data_download_url: https://raw.githubusercontent.com/DataTalksClub/nyc-tlc-data/master/uber/uber_trips.csv
+  local_data_file: artifacts/data_ingestion/uber_trips.csv
+  unzipped_dir: artifacts/data_ingestion
